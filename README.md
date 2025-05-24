@@ -18,8 +18,8 @@ This is a comprehensive React PWA template built with Vite, React Router, and Ta
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pwa-template.git my-pwa-app
-cd my-pwa-app
+git clone https://github.com/argf013/vite-react-pwa-boilerplate
+cd vite-react-pwa-boilerplate
 
 # Install dependencies using pnpm
 pnpm install
